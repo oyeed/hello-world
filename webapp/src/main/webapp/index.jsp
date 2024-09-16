@@ -52,7 +52,7 @@
       }
       label#icon {
       margin: 0;
-      border-radius: 5px 0 0 5px;
+      border-radius: 8px 0 0 6px;
       }
       label.radio {
       position: relative;
@@ -77,7 +77,7 @@
       content: "";
       position: absolute;
       width: 9px;
-      height: 4px;
+      height: 5px;
       top: 8px;
       left: 4px;
       border: 3px solid #fff;
@@ -96,7 +96,7 @@
       padding-left: 10px; 
       border-radius: 0 5px 5px 0;
       border: solid 1px #cbc9c9; 
-      box-shadow: 1px 2px 5px rgba(0,0,0,.09); 
+      box-shadow: 2px 2px 5px rgba(0,0,0,.09); 
       background: #fff; 
       }
       input[type=password] {
