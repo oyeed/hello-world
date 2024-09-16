@@ -8,7 +8,7 @@
       html, body {
       display: flex;
       justify-content: center;
-      height: 100%;
+      height: 90%;
       }
       body, div, h1, form, input, p { 
       padding: 0;
